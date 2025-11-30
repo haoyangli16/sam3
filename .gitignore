@@ -151,3 +151,19 @@ Thumbs.db
 # BPE vocabulary files
 *.bpe
 *.vocab
+
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.wmv
+*.flv
+*.mpg
+*.mpeg
+*.m4v
+*.m4a
+*.m4v
+
+output_robotic_arms
+temp
